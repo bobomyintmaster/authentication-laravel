@@ -1,0 +1,2 @@
+smtp setup
+https://mailtrap.io/
